@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b8e4fa</color>
+    <color name="colorPrimaryDark">#a8c7bd</color>
+    <color name="colorAccent">#599456</color>
+</resources>
+<!-- цвет фона бара -->
+<!--<color name="colorPrimary">#3F51B5</color>-->
+<!--цвет фона строки состояния системы -->
+<!--<color name="colorPrimaryDark">#303F9F</color>-->
+<!--Это цвет ПЕРЕКЛЮЧАТЕЛЯ !!! в апи 21-25 который круглый-->
+<!--<color name="colorAccent">#FF4081</color>-->
